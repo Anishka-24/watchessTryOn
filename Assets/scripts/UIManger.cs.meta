@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0d337d2eddbcf2b45a6aebe2297b15a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - watch1: {fileID: 919132149155446097, guid: 6c91736ed4fe6294d861375284af5220, type: 3}
+  - watch2: {fileID: 919132149155446097, guid: 2867778a0624785438aa4ffc925f7994, type: 3}
+  - watch3: {fileID: 919132149155446097, guid: 0d4cb488202e0ae49856f9ca0f5dc479, type: 3}
+  - watch1Window: {instanceID: 0}
+  - watch2Window: {instanceID: 0}
+  - watch3Window: {instanceID: 0}
+  - watch1B: {instanceID: 0}
+  - watch2B: {instanceID: 0}
+  - watch3B: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
